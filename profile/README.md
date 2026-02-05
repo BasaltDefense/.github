@@ -1,5 +1,4 @@
 # 🏛️ BasaltDefense
-> **Forging Unshakable Digital Foundations.**
 
 ---
 
@@ -37,10 +36,10 @@ Menos intervenção manual, mais consistência técnica.
 ## 💻 Stack Tecnológica
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Orquestração** | Kubernetes, Docker, Helm |
-| **Segurança** | SAST/DAST, Vault, Trivy, SonarQube |
+| **Orquestração** | Kubernetes, Docker |
+| **Segurança** | SAST/DAST |
 | **Automação** | Python, Bash, Ansible, Terraform |
-| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
+| **CI/CD** | GitHub Actions |
 | **Monitoring** | Zabbix, Grafana, Prometheus |
 
 ---
@@ -48,9 +47,7 @@ Menos intervenção manual, mais consistência técnica.
 ## 🤝 Conecte-se com a Resistência
 A BasaltDefense está pronta para fortalecer o seu ecossistema digital. Se você busca uma segurança que não cede, vamos conversar.
 
-* **LinkedIn:** [Seu Perfil/Página da Empresa](https://linkedin.com/in/seu-perfil)
-* **Website:** [www.basaltdefense.com](https://basaltdefense.com)
-* **E-mail:** [contato@basaltdefense.com](mailto:contato@basaltdefense.com)
+* **LinkedIn:** [](https://www.linkedin.com/in/pedro-victor2003)
 
 ---
 
